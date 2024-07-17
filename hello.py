@@ -1,0 +1,5 @@
+print("enter your number")
+inpnum= input()
+print("enter your second number")
+inpnum2=input()
+print("your answer",int(inpnum) + int(inpnum2))

@@ -1,0 +1,10 @@
+mystr="Transylvania is often associated with the land of Dracula and blood-thirsty vampires that sleep during the day and get out by night to suck the blood of their victims. But in the local folklore, vampires didn't exist before the novel of Bram Stoker."
+# print(len(mystr))
+# print(mystr[::-1])
+# print(mystr.endswith("girl"))
+# print(mystr.count("o"))
+# print(mystr.capitalize())
+# print(mystr.find("good"))
+# print((mystr.lower()))
+# print(mystr.upper())
+print(mystr.replace("vampires","demons"))
